@@ -1,4 +1,4 @@
-# Users Plugin for CakePHP #
+# Users Plugin for CakePHP # 
 
 Version 1.1
 
