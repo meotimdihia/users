@@ -1,4 +1,4 @@
-# Users Plugin for CakePHP #
+# Users Plugin for CakePHP # 
 
 The users plugin is for allowing users to register and login manage their profile. It also allows admins to manage the users.
 
